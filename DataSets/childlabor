@@ -1,0 +1,40 @@
+    Economically active children, study and work (% of economically active children, ages 7-14)|SL_TLF_0714_SW_ZS
+    Economically active children, work only (% of economically active children, ages 7-14)|SL_TLF_0714_WK_ZS
+    Labor force with primary education (% of total)|SL_TLF_PRIM_ZS
+    Labor force with secondary education (% of total)|SL_TLF_SECO_ZS
+    Labor force with tertiary education (% of total)|SL_TLF_TERT_ZS
+
+Labor force with primary education, female (% of female labor force)|SL_TLF_PRIM_FE_ZS
+Labor force with primary education, male (% of male labor force)|SL_TLF_PRIM_MA_ZS
+Labor force with secondary education, female (% of female labor force)|SL_TLF_SECO_FE_ZS
+Labor force with secondary education, male (% of male labor force)|SL_TLF_SECO_MA_ZS
+Labor force with tertiary education, female (% of female labor force)|SL_TLF_TERT_FE_ZS
+Labor force with tertiary education, male (% of male labor force)|SL_TLF_TERT_MA_ZS
+Labor force, female (% of total labor force)|SL_TLF_TOTL_FE_ZS
+Labor force, total|SL_TLF_TOTL_IN
+Economically active children, female (% of female children ages 7-14)|SL_TLF_0714_FE_ZS
+Economically active children, male (% of male children ages 7-14)|SL_TLF_0714_MA_ZS
+Economically active children, study and work, female (% of female economically active children, ages 7-14)|SL_TLF_0714_SW_FE_ZS
+Economically active children, study and work, male (% of male economically active children, ages 7-14)|SL_TLF_0714_SW_MA_ZS
+Economically active children, total (% of children ages 7-14)|SL_TLF_0714_ZS
+Economically active children, work only, female (% of female economically active children, ages 7-14)|SL_TLF_0714_WK_FE_ZS
+Economically active children, work only, male (% of male economically active children, ages 7-14)|SL_TLF_0714_WK_MA_ZS
+Ratio of female to male labor force participation rate (%)|SL_TLF_CACT_FM_ZS
+Ratio of female to male primary enrollment (%)|SE_ENR_PRIM_FM_ZS
+Ratio of female to male secondary enrollment (%)|SE_ENR_SECO_FM_ZS
+Ratio of female to male tertiary enrollment (%)|SE_ENR_TERT_FM_ZS
+Ratio of girls to boys in primary and secondary education (%)|SE_ENR_PRSC_FM_ZS
+Ratio of young literate females to males (% ages 15-24)|SE_ADT_1524_LT_FM_ZS
+Labor force participation rate, female (% of female population ages 15-64)|SL_TLF_ACTI_FE_ZS
+Labor force participation rate, male (% of male population ages 15-64)|SL_TLF_ACTI_MA_ZS
+Labor force participation rate, total (% of total population ages 15-64)|SL_TLF_ACTI_ZS
+
+Child employment in agriculture (% of economically active children ages 7-14)|SL_AGR_0714_ZS
+Child employment in agriculture, female (% of female economically active children ages 7-14)|SL_AGR_0714_FE_ZS
+Child employment in agriculture, male (% of male economically active children ages 7-14)|SL_AGR_0714_MA_ZS
+Child employment in manufacturing (% of economically active children ages 7-14)|SL_MNF_0714_ZS
+Child employment in manufacturing, female (% of female economically active children ages 7-14)|SL_MNF_0714_FE_ZS
+Child employment in manufacturing, male (% of male economically active children ages 7-14)|SL_MNF_0714_MA_ZS
+Child employment in services (% of economically active children ages 7-14)|SL_SRV_0714_ZS
+Child employment in services, female (% of female economically active children ages 7-14)|SL_SRV_0714_FE_ZS
+Child employment in services, male (% of male economically active children ages 7-14)|SL_SRV_0714_MA_ZS
